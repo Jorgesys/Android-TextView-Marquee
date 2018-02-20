@@ -31,9 +31,7 @@
         android:layout_marginTop="8dp"
         android:elevation="16dp"
         android:ellipsize="marquee"
-
-
-        android:lines="1"
+        android:singleLine="true"
         android:marqueeRepeatLimit="marquee_forever"
         android:scrollHorizontally="true"
         android:text="@string/poem"
